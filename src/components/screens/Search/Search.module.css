@@ -1,0 +1,17 @@
+.containerSearch{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 94vh;
+    gap: 2vh;
+    background-color: #232946;
+
+}
+.containerListHeroes{
+    max-height: 70vh;
+    overflow-y: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 2vh;
+}
